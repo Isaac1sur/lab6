@@ -1,4 +1,4 @@
-# Caratula de LAb4 de Taller de Programacion
+# Caratula de LAb6 de Taller de Programacion
 ##  Universiadad
 Adventista de Bolivia
 
